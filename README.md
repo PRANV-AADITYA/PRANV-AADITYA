@@ -36,17 +36,17 @@
 
 I'm a **Junior AI Automation Developer** who builds conversational AI agents and workflow automations with **Microsoft Copilot Studio**, and applies computer vision (**YOLO, OpenCV, ANPR**) to real-world problems like traffic monitoring and gesture control. I hold an **MCA in Data Science** (CGPA 9.06) and two **AWS Academy** credentials, and I'm currently open to relocating anywhere for an AI Automation / Copilot Studio / AI Agent role.
 
-- 🔭 Currently building AI agent workflows for UK-based clients (Copilot Studio)
-- 🧠 Deepening my computer vision + LLM automation skill set
-- 🌱 Learning cloud deployment (AWS, Docker) for production AI systems
-- 📫 Reach me at **pranavcollage001@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/pranav-aaditya)
+- Currently building AI agent workflows for UK-based clients (Copilot Studio)
+- Deepening my computer vision + LLM automation skill set
+- Learning cloud deployment (AWS, Docker) for production AI systems
+- Reach me at **pranavcollage001@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/pranav-aaditya)
 
 | | |
 |---|---|
-| 🎓 **Education** | MCA (Data Science) — Dev Sanskriti Vishwavidyalaya · CGPA 9.06 |
-| 📜 **Certifications** | AWS Academy Graduate (Cloud Foundations + Data Engineering) · Google Cloud Vertex AI Prompt Design Badge |
-| 🌐 **Portfolio** | [pranavaaditya.gt.tc](https://pranavaaditya.gt.tc) |
-| 📍 **Open to** | Relocating anywhere — AI Automation / Copilot Studio / AI Agent roles |
+|  **Education** | MCA (Data Science) — Dev Sanskriti Vishwavidyalaya · CGPA 9.06 |
+|  **Certifications** | AWS Academy Graduate (Cloud Foundations + Data Engineering) · Google Cloud Vertex AI Prompt Design Badge |
+|  **Portfolio** | [pranavaaditya.gt.tc](https://pranavaaditya.gt.tc) |
+|  **Open to** | Relocate — AI Automation / Copilot Studio / AI Agent roles |
 
 **Core focus areas:**
 
@@ -62,7 +62,7 @@ I'm a **Junior AI Automation Developer** who builds conversational AI agents and
 
 ## 🚀 Featured Projects
 
-### 🤖 Copilot Studio / AI Agent Automation (FCDO - UK Government)
+###  Copilot Studio / AI Agent Automation (FCDO - UK Government)
 > Conversational AI automation + workflow orchestration for UK-based clients (Copilot Studio + AI agents).
 
 <div align="center">
@@ -82,7 +82,7 @@ I'm a **Junior AI Automation Developer** who builds conversational AI agents and
 
 ---
 
-### 📸 MAINEC — Multimodel AI Interface (Hand + Face Gesture Control)
+###  MAINEC — Multimodel AI Interface (Hand + Face Gesture Control)
 > Multimodel interface to control your PC/laptop using hand and face gestures.
 
 <div align="center">
@@ -102,7 +102,7 @@ I'm a **Junior AI Automation Developer** who builds conversational AI agents and
 
 ---
 
-### 🚦 Real-Time Traffic Management System (YOLO + ANPR)
+###  Real-Time Traffic Management System (YOLO + ANPR)
 > Real-time CCTV traffic monitoring using YOLO + ANPR integration for access control & logging.
 
 <div align="center">
@@ -119,7 +119,7 @@ I'm a **Junior AI Automation Developer** who builds conversational AI agents and
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 <p>
@@ -169,8 +169,6 @@ I'm a **Junior AI Automation Developer** who builds conversational AI agents and
 ### Cloud & DevOps (Learning)
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0a2a3a" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a2a3a" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a2a3a" />
   <img src="https://img.shields.io/badge/JumpCloud-F26722?style=for-the-badge&logo=jumpcloud&logoColor=white&labelColor=0a2a3a" />
 </p>
 
