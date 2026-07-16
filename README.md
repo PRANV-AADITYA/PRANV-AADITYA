@@ -41,63 +41,20 @@ I'm a **Junior AI Automation Developer** who builds conversational AI agents and
 - 🌱 Learning cloud deployment (AWS, Docker) for production AI systems
 - 📫 Reach me at **pranavcollage001@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/pranav-aaditya)
 
-```typescript
-const pranavAaditya = {
-  title: "Junior AI Automation Developer (Copilot Studio & AI Agents)",
-  stack: {
-    aiAutomation: [
-      "Microsoft Copilot Studio",
-      "AI Agents",
-      "Power Automate",
-      "Workflow Automation",
-      "Conversational AI",
-      "Prompt Engineering (Vertex AI)"
-    ],
-    programmingData: [
-      "Python",
-      "Pandas",
-      "NumPy",
-      "PyTorch",
-      "SQL",
-      "MongoDB",
-      "Jupyter Notebook",
-      "Google Colab"
-    ],
-    computerVision: [
-      "OpenCV",
-      "YOLO",
-      "ANPR (module integration)",
-      "Real-time CCTV analytics",
-      "Hand / Face gesture control (MAINEC)"
-    ],
-    cloud: [
-      "AWS Academy (Cloud Foundations, Data Engineering)",
-      "JumpCloud Administration",
-      "Cloud workflow understanding"
-    ],
-    webBranding: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "WordPress",
-      "LinkedIn Branding & SEO Optimization",
-      "Canva Pro",
-      "Adobe Firefly",
-      "Leonardo AI",
-      "CapCut"
-    ],
-    analytics: ["Power BI", "Microsoft Planner"]
-  },
-  launched: [
-    "(Portfolio) https://pranavaaditya.gt.tc",
-    "(Add live demos/links later)"
-  ],
-  certified:
-    "AWS Academy Graduate (Cloud Foundations + Data Engineering) + Google Cloud Digital Badge (Vertex AI Prompt Design)",
-  status: "MCA (Data Science) — Dev Sanskriti Vishwavidyalaya | CGPA: 9.06",
-  openTo: "Open to relocate anywhere — AI Automation / Copilot Studio / AI Agent roles"
-};
-```
+| | |
+|---|---|
+| 🎓 **Education** | MCA (Data Science) — Dev Sanskriti Vishwavidyalaya · CGPA 9.06 |
+| 📜 **Certifications** | AWS Academy Graduate (Cloud Foundations + Data Engineering) · Google Cloud Vertex AI Prompt Design Badge |
+| 🌐 **Portfolio** | [pranavaaditya.gt.tc](https://pranavaaditya.gt.tc) |
+| 📍 **Open to** | Relocating anywhere — AI Automation / Copilot Studio / AI Agent roles |
+
+**Core focus areas:**
+
+- **AI Automation & Agents** — Microsoft Copilot Studio, AI Agents, Power Automate, Conversational AI, Prompt Engineering (Vertex AI)
+- **Programming & Data** — Python, Pandas, NumPy, PyTorch, SQL, MongoDB, Jupyter, Google Colab
+- **Computer Vision** — OpenCV, YOLO, ANPR module integration, real-time CCTV analytics, hand/face gesture control (MAINEC)
+- **Web & Digital Branding** — HTML, CSS, JavaScript, WordPress, LinkedIn branding & SEO, Canva Pro, Adobe Firefly, Leonardo AI, CapCut
+- **Analytics** — Power BI, Microsoft Planner
 
 <br clear="right"/>
 
