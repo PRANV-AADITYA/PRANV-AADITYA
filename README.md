@@ -11,11 +11,11 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/PRANV-AADITYA">
+  <a href="https://github.com/PRANAV-AADITYA">
     <img src="https://komarev.com/ghpvc/?username=PRANV-AADITYA&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" />
   </a>
   &nbsp;
-  <a href="https://github.com/PRANV-AADITYA?tab=followers">
+  <a href="https://github.com/PRANAV-AADITYA?tab=followers">
     <img src="https://img.shields.io/github/followers/PRANV-AADITYA?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" />
   </a>
   &nbsp;
