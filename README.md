@@ -1,30 +1,30 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Sayed%20Baqar%20Abbas&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%7C%20Node.js%20%7C%20AWS%20Serverless&descAlignY=58&descSize=17&descColor=bae6fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=PRANAV%20AADITYA&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Junior%20AI%20Automation%20Developer%20%E2%80%94%20Copilot%20Studio%20%7C%20AI%20Agents%20%7C%20Digital%20Branding&descAlignY=58&descSize=17&descColor=bae6fd" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Solo+Full+Stack+Developer;Built+production+SaaS+from+0+to+launch;React+%7C+Node.js+%7C+AWS+%7C+PostgreSQL;Open+to+full-time+developer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Junior+AI+Automation+Developer;Copilot+Studio+%7C+AI+Agents+%7C+Workflow+Automation;YOLO+%7C+Computer+Vision+%7C+ANPR;Digital+Branding+%7C+SEO+%7C+Content+Strategy" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Full%20Stack%20%2F%20Cloud%20Developer%20Roles-7dd3fc?style=for-the-badge&labelColor=0a2a3a&color=0d3347" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20OPEN%20TO%20RELOCATE-AI%20Automation%20%2F%20Copilot%20Studio-7dd3fc?style=for-the-badge&labelColor=0a2a3a&color=0d3347" alt="Open to Relocate" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/syedbaqar25">
-    <img src="https://komarev.com/ghpvc/?username=syedbaqar25&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" />
+  <a href="https://github.com/PRANV-AADITYA">
+    <img src="https://komarev.com/ghpvc/?username=PRANV-AADITYA&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" />
   </a>
   &nbsp;
-  <a href="https://github.com/syedbaqar25?tab=followers">
-    <img src="https://img.shields.io/github/followers/syedbaqar25?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" />
+  <a href="https://github.com/PRANV-AADITYA?tab=followers">
+    <img src="https://img.shields.io/github/followers/PRANV-AADITYA?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sayed-baqar-abbas/">
+  <a href="https://www.linkedin.com/in/pranav-aaditya">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0a2a3a" />
   </a>
   &nbsp;
-  <a href="mailto:sayedbaqarabbas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sayedbaqarabbas%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
+  <a href="mailto:pranavcollage001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pranavcollage001%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
   </a>
 </div>
 
@@ -32,23 +32,70 @@
 
 ## 🧑‍💻 Who I Am
 
-<img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="AI Automation" width="290" src="https://user-images.githubusercontent.com/74038190/226598090-7c4d0e0f-2d5e-46b8-9e6a-efb3a8c0f8fe.gif" />
+
+I'm a **Junior AI Automation Developer** who builds conversational AI agents and workflow automations with **Microsoft Copilot Studio**, and applies computer vision (**YOLO, OpenCV, ANPR**) to real-world problems like traffic monitoring and gesture control. I hold an **MCA in Data Science** (CGPA 9.06) and two **AWS Academy** credentials, and I'm currently open to relocating anywhere for an AI Automation / Copilot Studio / AI Agent role.
+
+- 🔭 Currently building AI agent workflows for UK-based clients (Copilot Studio)
+- 🧠 Deepening my computer vision + LLM automation skill set
+- 🌱 Learning cloud deployment (AWS, Docker) for production AI systems
+- 📫 Reach me at **pranavcollage001@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/pranav-aaditya)
 
 ```typescript
-const sayedBaqar = {
-  title:    "Full Stack Developer (Solo Builder)",
-  stack:    {
-    frontend: ["React 18", "Vite", "Tailwind CSS", "Framer Motion", "GSAP", "Three.js"],
-    backend:  ["Node.js", "Express", "Prisma", "BullMQ + Redis", "Socket.io"],
-    cloud:    ["AWS Lambda", "DynamoDB", "Cognito", "KMS", "API Gateway"],
-    db:       ["PostgreSQL 16", "DynamoDB", "Pinecone (vector)"],
-    ai:       ["Google Gemini AI", "Anthropic Claude", "Pinecone RAG"],
-    devops:   ["Docker", "GitHub Actions", "Railway", "Cloudflare Pages"],
+const pranavAaditya = {
+  title: "Junior AI Automation Developer (Copilot Studio & AI Agents)",
+  stack: {
+    aiAutomation: [
+      "Microsoft Copilot Studio",
+      "AI Agents",
+      "Power Automate",
+      "Workflow Automation",
+      "Conversational AI",
+      "Prompt Engineering (Vertex AI)"
+    ],
+    programmingData: [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "PyTorch",
+      "SQL",
+      "MongoDB",
+      "Jupyter Notebook",
+      "Google Colab"
+    ],
+    computerVision: [
+      "OpenCV",
+      "YOLO",
+      "ANPR (module integration)",
+      "Real-time CCTV analytics",
+      "Hand / Face gesture control (MAINEC)"
+    ],
+    cloud: [
+      "AWS Academy (Cloud Foundations, Data Engineering)",
+      "JumpCloud Administration",
+      "Cloud workflow understanding"
+    ],
+    webBranding: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "WordPress",
+      "LinkedIn Branding & SEO Optimization",
+      "Canva Pro",
+      "Adobe Firefly",
+      "Leonardo AI",
+      "CapCut"
+    ],
+    analytics: ["Power BI", "Microsoft Planner"]
   },
-  launched: ["syncmindai.live", "cloudrecords.live"],
-  certified: "NPTEL Elite — Cloud IoT Edge ML · IIT Kanpur",
-  status:   "Final-year CS @ Amity University · Graduating July 2026",
-  openTo:   "Full-time developer roles — Lucknow · Pune · Chandigarh · Remote",
+  launched: [
+    "(Portfolio) https://pranavaaditya.gt.tc",
+    "(Add live demos/links later)"
+  ],
+  certified:
+    "AWS Academy Graduate (Cloud Foundations + Data Engineering) + Google Cloud Digital Badge (Vertex AI Prompt Design)",
+  status: "MCA (Data Science) — Dev Sanskriti Vishwavidyalaya | CGPA: 9.06",
+  openTo: "Open to relocate anywhere — AI Automation / Copilot Studio / AI Agent roles"
 };
 ```
 
@@ -58,44 +105,60 @@ const sayedBaqar = {
 
 ## 🚀 Featured Projects
 
-### ⚡ SyncMind AI — *Meeting Intelligence Platform*
-> Built solo · Production-deployed · 46 test cases · Full CI/CD
+### 🤖 Copilot Studio / AI Agent Automation (FCDO - UK Government)
+> Conversational AI automation + workflow orchestration for UK-based clients (Copilot Studio + AI agents).
 
 <div align="center">
 
-[![SyncMind AI](https://github-readme-stats.vercel.app/api/pin/?username=syedbaqar25&repo=SyncMind-Ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/syedbaqar25/SyncMind-Ai)
+[![Copilot Studio AI Agent - FCDO](https://github-readme-stats.vercel.app/api/pin/?username=PRANV-AADITYA&repo=REPLACE_WITH_YOUR_REPO_NAME&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&title=Add%20Repo%20Link&description=Copilot%20Studio%20%7C%20AI%20Agents%20%7C%20FCDO)](https://github.com/PRANV-AADITYA/REPLACE_WITH_YOUR_REPO_NAME)
 
 </div>
 
 | Layer | Technology |
 |---|---|
-| **Frontend** | React 18 + Vite · Tailwind · Framer Motion · GSAP · Three.js · Zustand · TanStack Query v5 |
-| **Backend** | Node.js · Socket.io (real-time) · BullMQ + Redis (queue) · Prisma + PostgreSQL 16 |
-| **AI/ML** | Google Gemini AI · Pinecone (vector search) · RAG pipeline |
-| **DevOps** | Docker Compose · GitHub Actions CI/CD · Cloudflare Pages · Railway |
-| **Quality** | Jest · 46 test cases · High coverage |
+| AI/Automation | Microsoft Copilot Studio, AI Agents, Conversational AI, Workflow Automation |
+| Client Work | UK-based projects (incl. FCDO) |
+| Tooling | Power Automate (automation layer), prompt engineering (Vertex AI usage) |
 
-🌐 **Live →** [syncmindai.live](https://syncmindai.live) &nbsp; | &nbsp; 📂 **Code →** [github.com/syedbaqar25/SyncMind-Ai](https://github.com/syedbaqar25/SyncMind-Ai)
+**Repo link:** (to be added)
+**Live link:** (to be added)
 
 ---
 
-### ☁️ CloudRecords — *Serverless Multi-Tenant DBMS*
-> Production-grade · Serverless-first · Zero cold-start architecture
+### 📸 MAINEC — Multimodel AI Interface (Hand + Face Gesture Control)
+> Multimodel interface to control your PC/laptop using hand and face gestures.
 
 <div align="center">
 
-[![CloudRecords](https://github-readme-stats.vercel.app/api/pin/?username=syedbaqar25&repo=cloudrecords&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117)](https://github.com/syedbaqar25/cloudrecords)
+[![MAINEC - Multimodel AI Interface](https://github-readme-stats.vercel.app/api/pin/?username=PRANV-AADITYA&repo=REPLACE_WITH_YOUR_REPO_NAME&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&title=Add%20Repo%20Link&description=Hand%20%2B%20Face%20Gesture%20Control)](https://github.com/PRANV-AADITYA/REPLACE_WITH_YOUR_REPO_NAME)
 
 </div>
 
 | Layer | Technology |
 |---|---|
-| **Frontend** | React.js · Tailwind CSS · Cloudflare Pages |
-| **Backend** | AWS Lambda · API Gateway · Serverless architecture |
-| **Auth & Security** | AWS Cognito · KMS (envelope encryption) · Multi-tenant isolation |
-| **Database** | DynamoDB · Single-table design · Partition-key scoped access |
+| Vision Interaction | Hand + face gesture control approach (multimodel interface) |
+| Goal | Hands-free, gesture-based control for PC/machine interaction |
+| UX | Real-time perception to trigger actions |
 
-🌐 **Live →** [cloudrecords.live](https://cloudrecords.live) &nbsp; | &nbsp; 📂 **Code →** [github.com/syedbaqar25/cloudrecords](https://github.com/syedbaqar25/cloudrecords)
+**Repo link:** (to be added)
+**Live link:** (to be added)
+
+---
+
+### 🚦 Real-Time Traffic Management System (YOLO + ANPR)
+> Real-time CCTV traffic monitoring using YOLO + ANPR integration for access control & logging.
+
+<div align="center">
+
+[![Traffic Management (YOLO + ANPR)](https://github-readme-stats.vercel.app/api/pin/?username=PRANV-AADITYA&repo=REPLACE_WITH_YOUR_REPO_NAME&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&title=Add%20Repo%20Link&description=YOLO%20%7C%20ANPR%20%7C%20Real-time%20CCTV)](https://github.com/PRANV-AADITYA/REPLACE_WITH_YOUR_REPO_NAME)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| CV Core | YOLO-based vehicle detection |
+| Deployment | Live CCTV feed (campus gate environment) |
+| Extensions | ANPR module integration for number plate detection & logging |
 
 ---
 
@@ -103,49 +166,66 @@ const sayedBaqar = {
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a2a3a" />
 </p>
 
-### Frontend
+### AI Automation / Agents
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma&theme=dark" />
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0a2a3a" />
 </p>
 
-### Backend & Infra
+### Data & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,redis,docker,postgres&theme=dark" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=0a2a3a" />
 </p>
 
-### Cloud & Deployment
+### Computer Vision
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,github&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white&labelColor=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white&labelColor=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-Cognito-DD344C?style=flat-square&logo=amazoncognito&logoColor=white&labelColor=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white&labelColor=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=7dd3fc&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0a2a3a" />
 </p>
 
-### AI & Databases
+### Web & Content
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/-Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-Pinecone-00D4AA?style=flat-square&logo=pinecone&logoColor=white&labelColor=0a2a3a" height="46" />
-  <img src="https://img.shields.io/badge/-Prisma-7dd3fc?style=flat-square&logo=prisma&logoColor=0d1117&labelColor=0a2a3a" height="46" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/CapCut-111827?style=for-the-badge&logo=capcut&logoColor=white&labelColor=0a2a3a" />
 </p>
 
-### Dev Tools
+### Analytics & BI
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/Microsoft%20Planner-6264A7?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0a2a3a" />
 </p>
+
+### Cloud & DevOps (Learning)
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/JumpCloud-F26722?style=for-the-badge&logo=jumpcloud&logoColor=white&labelColor=0a2a3a" />
+</p>
+
+> Note: a couple of niche tools (Adobe Firefly, Leonardo AI, ANPR) don't have official logo icons in the badge libraries, so they're listed as plain text in the "Who I Am" section above rather than broken badges here.
 
 ### Certifications
 <p>
-  <img src="https://img.shields.io/badge/NPTEL_Elite-Cloud%20IoT%20Edge%20ML-7dd3fc?style=for-the-badge&logo=google-cloud&logoColor=0d1117&labelColor=0a2a3a" />
+  <img src="https://img.shields.io/badge/AWS_Academy_Graduate-Cloud%20Foundations-7dd3fc?style=for-the-badge&logo=amazon&logoColor=0d1117&labelColor=0a2a3a" />
   &nbsp;
-  <img src="https://img.shields.io/badge/IIT_Kanpur-Certified-bae6fd?style=for-the-badge&logo=academia&logoColor=0d1117&labelColor=0d3347" />
+  <img src="https://img.shields.io/badge/AWS_Academy_Graduate-Data%20Engineering-7dd3fc?style=for-the-badge&logo=amazon&logoColor=0d1117&labelColor=0a2a3a" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-Prompt%20Design%20Badge-bae6fd?style=for-the-badge&logo=google-cloud&logoColor=0d1117&labelColor=0a2a3a" />
 </p>
 
 ---
@@ -153,15 +233,15 @@ const sayedBaqar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedbaqar25&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRANV-AADITYA&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedbaqar25&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANV-AADITYA&layout=compact&theme=nord&border_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&langs_count=8" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=syedbaqar25&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd" />
+  <img src="https://streak-stats.demolab.com?user=PRANV-AADITYA&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd" />
 </div>
 
 ---
@@ -169,7 +249,7 @@ const sayedBaqar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedbaqar25&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PRANV-AADITYA&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
@@ -177,7 +257,7 @@ const sayedBaqar = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedbaqar25&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRANV-AADITYA&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" />
 </div>
 
 ---
@@ -187,11 +267,11 @@ const sayedBaqar = {
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/syedbaqar25/syedbaqar25/output/github-snake-dark.svg" />
+            srcset="https://raw.githubusercontent.com/PRANV-AADITYA/PRANV-AADITYA/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/syedbaqar25/syedbaqar25/output/github-snake.svg" />
+            srcset="https://raw.githubusercontent.com/PRANV-AADITYA/PRANV-AADITYA/output/github-snake.svg" />
     <img alt="GitHub contribution snake"
-         src="https://raw.githubusercontent.com/syedbaqar25/syedbaqar25/output/github-snake-dark.svg" />
+         src="https://raw.githubusercontent.com/PRANV-AADITYA/PRANV-AADITYA/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -200,28 +280,20 @@ const sayedBaqar = {
 ## 🤝 Connect
 
 <div align="center">
-  <a href="https://github.com/syedbaqar25">
+  <a href="https://github.com/PRANV-AADITYA">
     <img src="https://img.shields.io/badge/GitHub-0a2a3a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sayed-baqar-abbas/">
+  <a href="https://www.linkedin.com/in/pranav-aaditya">
     <img src="https://img.shields.io/badge/LinkedIn-0a2a3a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" />
   </a>
   &nbsp;
-  <a href="mailto:sayedbaqarabbas@gmail.com">
+  <a href="mailto:pranavcollage001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" />
   </a>
   &nbsp;
-  <a href="https://syncmindai.live">
-    <img src="https://img.shields.io/badge/syncmindai.live-0a2a3a?style=for-the-badge&logo=lightning&logoColor=7dd3fc" />
-  </a>
-  &nbsp;
-  <a href="https://cloudrecords.live">
-    <img src="https://img.shields.io/badge/cloudrecords.live-0a2a3a?style=for-the-badge&logo=cloudflare&logoColor=7dd3fc" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/syed__baqar">
-    <img src="https://img.shields.io/badge/Twitter%2FX-0a2a3a?style=for-the-badge&logo=x&logoColor=7dd3fc" />
+  <a href="https://pranavaaditya.gt.tc">
+    <img src="https://img.shields.io/badge/Portfolio-pranavaaditya.gt.tc-0a2a3a?style=for-the-badge&logo=portfolio&logoColor=7dd3fc" />
   </a>
 </div>
 
