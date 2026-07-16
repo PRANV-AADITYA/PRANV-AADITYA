@@ -187,61 +187,10 @@ I'm a **Junior AI Automation Developer** who builds conversational AI agents and
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PRANV-AADITYA&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&include_all_commits=true&count_private=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://streak-stats.demolab.com?user=PRANV-AADITYA&theme=nord&hide_border=false&border=7dd3fc&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=bae6fd"
-    height="170"
-    alt="GitHub Streak"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PRANV-AADITYA&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PRANV-AADITYA&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRANV-AADITYA&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" />
-</div>
-
----
-
-## 🐍 Contributions Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/PRANV-AADITYA/PRANV-AADITYA/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/PRANV-AADITYA/PRANV-AADITYA/output/github-snake.svg" />
-    <img alt="GitHub contribution snake"
-         src="https://raw.githubusercontent.com/PRANV-AADITYA/PRANV-AADITYA/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
