@@ -190,9 +190,21 @@ I'm a **Junior AI Automation Developer** who builds conversational AI agents and
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRANV-AADITYA&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANV-AADITYA&layout=compact&theme=nord&border_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&langs_count=8" height="170" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PRANV-AADITYA&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  &nbsp;&nbsp;
+
+  <img
+    src="https://streak-stats.demolab.com?user=PRANV-AADITYA&theme=nord&hide_border=false&border=7dd3fc&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=bae6fd"
+    height="170"
+    alt="GitHub Streak"
+  />
+
 </div>
 
 <br/>
